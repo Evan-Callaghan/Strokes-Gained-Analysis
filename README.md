@@ -1,2 +1,3 @@
 # Strokes-Gained-Analysis
-Strokes Gained Analysis for data collected by me (Subjects are myself and other GV golf team members)
+
+This repository is for Strokes Gained Analysis for my Math Seminar final project. I am focusing on analyzing Strokes gained golf data for my own and my teammates' rounds of golf
