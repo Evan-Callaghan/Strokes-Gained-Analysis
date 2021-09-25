@@ -1,0 +1,544 @@
+Golfer,Round_ID,Date,Golf_Course,Hole_Number,Hole_Par,Hole_Yardage,Shot_Number,Shot_Category,Location,Location_Lie_Type,Location_Baseline,Next_Location,Next_Location_Lie_Type,Next_Location_Baseline,Penalty_Incurred,Penalty_Stroke_Value,Strokes_Gained,Gross_Strokes,Putt,Fairway,GIR
+Evan Callaghan,1001,2021-09-10,Otter Creek,1,4,374,1,Tee,374.0,Tee,3.95,97.0,Rough,3.01,,0.0,-0.06,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,1,4,374,2,Approach,97.0,Rough,3.01,16.0,Green,2.13,,0.0,-0.12,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,1,4,374,3,Putt,16.0,Green,2.13,4.0,Green,1.69,,0.0,-0.56,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,1,4,374,4,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,1,4,374,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,2,4,389,1,Tee,389.0,Tee,3.97,93.0,Rough,3.0,,0.0,-0.03,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,2,4,389,2,Approach,93.0,Rough,3.0,6.0,Fairway,2.08,,0.0,-0.08,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,2,4,389,3,Around-the-Green,6.0,Fairway,2.08,1.0,Green,1.04,,0.0,0.04,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,2,4,389,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,3,5,552,1,Tee,552.0,Tee,4.71,238.0,Fairway,3.44,,0.0,0.27,1.0,0,1,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,3,5,552,2,Approach,238.0,Fairway,3.44,7.0,Rough,2.26,,0.0,0.18,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,3,5,552,3,Around-the-Green,7.0,Rough,2.26,2.0,Green,1.34,,0.0,-0.08,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,3,5,552,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,4,3,203,1,Approach,203.0,Tee,3.13,5.0,Green,1.78,,0.0,0.35,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,4,3,203,2,Putt,5.0,Green,1.78,1.0,Green,1.04,,0.0,-0.26,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,4,3,203,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,5,5,542,1,Tee,542.0,Tee,4.66,268.0,Fairway,3.63,,0.0,0.03,1.0,0,1,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,5,5,542,2,Approach,268.0,Fairway,3.63,21.0,Fairway,2.42,,0.0,0.21,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,5,5,542,3,Around-the-Green,21.0,Fairway,2.42,1.0,Green,1.04,,0.0,0.38,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,5,5,542,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,6,3,181,1,Approach,181.0,Tee,3.06,4.0,Green,1.69,,0.0,0.37,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,6,3,181,2,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,6,3,181,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,7,4,467,1,Tee,467.0,Tee,4.21,188.0,Rough,3.35,,0.0,-0.14,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,7,4,467,2,Approach,188.0,Rough,3.35,11.0,Green,2.0,,0.0,0.35,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,7,4,467,3,Putt,11.0,Green,2.0,1.0,Green,1.04,,0.0,-0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,7,4,467,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,8,4,397,1,Tee,397.0,Tee,3.99,125.0,Sand,3.21,,0.0,-0.22,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,8,4,397,2,Approach,125.0,Sand,3.21,34.0,Fairway,2.55,,0.0,-0.34,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,8,4,397,3,Around-the-Green,34.0,Fairway,2.55,7.0,Green,1.88,,0.0,-0.33,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,8,4,397,4,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,8,4,397,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,9,4,417,1,Tee,417.0,Tee,4.01,145.0,Rough,3.17,,0.0,-0.16,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,9,4,417,2,Approach,145.0,Rough,3.17,8.0,Rough,2.29,,0.0,-0.12,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,9,4,417,3,Around-the-Green,8.0,Rough,2.29,5.0,Green,1.78,,0.0,-0.49,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,9,4,417,4,Putt,5.0,Green,1.78,1.0,Green,1.04,,0.0,-0.26,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,9,4,417,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,10,4,408,1,Tee,408.0,Tee,4.0,189.0,Fairway,3.13,,0.0,-0.13,1.0,0,1,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,10,4,408,2,Approach,189.0,Fairway,3.13,8.0,Green,1.92,,0.0,0.21,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,10,4,408,3,Putt,8.0,Green,1.92,1.0,Green,1.04,,0.0,-0.12,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,10,4,408,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,11,5,553,1,Tee,553.0,Tee,4.71,268.0,Rough,3.78,OB,2.0,-2.07,3.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,11,5,553,4,Approach,268.0,Rough,3.78,64.0,Rough,2.92,,0.0,-0.14,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,11,5,553,5,Approach,64.0,Rough,2.92,20.0,Fairway,2.4,,0.0,-0.48,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,11,5,553,6,Around-the-Green,20.0,Fairway,2.4,3.0,Green,1.56,,0.0,-0.16,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,11,5,553,7,Putt,3.0,Green,1.56,3.0,Green,1.56,,0.0,-1.0,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,11,5,553,8,Putt,3.0,Green,1.56,0.0,Hole,0.0,,0.0,0.56,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,12,4,431,1,Tee,431.0,Tee,4.05,150.0,Rough,3.19,,0.0,-0.14,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,12,4,431,2,Approach,150.0,Rough,3.19,35.0,Rough,2.74,PA,1.0,-1.55,2.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,12,4,431,4,Around-the-Green,35.0,Rough,2.74,2.0,Green,1.34,,0.0,0.4,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,12,4,431,5,Putt,2.0,Green,1.34,1.0,Green,1.04,,0.0,-0.7,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,12,4,431,6,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,13,3,154,1,Approach,154.0,Tee,2.98,14.0,Rough,2.45,,0.0,-0.47,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,13,3,154,2,Around-the-Green,14.0,Rough,2.45,1.0,Green,1.04,,0.0,0.41,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,13,3,154,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,14,4,431,1,Tee,431.0,Tee,4.05,115.0,Sand,3.21,,0.0,-0.16,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,14,4,431,2,Approach,115.0,Sand,3.21,17.0,Fairway,2.34,,0.0,-0.13,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,14,4,431,3,Around-the-Green,17.0,Fairway,2.34,1.0,Green,1.04,,0.0,0.3,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,14,4,431,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,15,3,196,1,Approach,196.0,Tee,3.11,19.0,Rough,2.57,,0.0,-0.46,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,15,3,196,2,Around-the-Green,19.0,Rough,2.57,14.0,Fairway,2.28,,0.0,-0.71,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,15,3,196,3,Around-the-Green,14.0,Fairway,2.28,2.0,Green,1.34,,0.0,-0.06,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,15,3,196,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,16,4,391,1,Tee,391.0,Tee,3.98,186.0,Rough,3.34,PA,1.0,-1.36,2.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,16,4,391,3,Approach,186.0,Rough,3.34,20.0,Rough,2.59,,0.0,-0.25,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,16,4,391,4,Around-the-Green,20.0,Rough,2.59,3.0,Green,1.56,,0.0,0.03,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,16,4,391,5,Putt,3.0,Green,1.56,0.0,Hole,0.0,,0.0,0.56,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,17,4,409,1,Tee,409.0,Tee,4.0,154.0,Rough,3.21,,0.0,-0.21,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,17,4,409,2,Approach,154.0,Rough,3.21,5.0,Green,1.78,,0.0,0.43,1.0,0,0,1.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,17,4,409,3,Putt,5.0,Green,1.78,2.0,Green,1.34,,0.0,-0.56,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,17,4,409,4,Putt,2.0,Green,1.34,1.0,Green,1.04,,0.0,-0.7,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,17,4,409,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,18,4,400,1,Tee,400.0,Tee,3.99,184.0,Fairway,3.1,,0.0,-0.11,1.0,0,1,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,18,4,400,2,Approach,184.0,Fairway,3.1,52.0,Rough,2.88,,0.0,-0.78,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,18,4,400,3,Approach,52.0,Rough,2.88,6.0,Green,1.84,,0.0,0.04,1.0,0,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,18,4,400,4,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Evan Callaghan,1001,2021-09-10,Otter Creek,18,4,400,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,1,4,374,1,Tee,374.0,Tee,3.95,86.0,Fairway,2.76,,0.0,0.19,1.0,0,1,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,1,4,374,2,Approach,86.0,Fairway,2.76,3.0,Green,1.56,,0.0,0.2,1.0,0,0,1.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,1,4,374,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,1,4,374,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,2,4,389,1,Tee,389.0,Tee,3.97,123.0,Rough,3.09,,0.0,-0.12,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,2,4,389,2,Approach,123.0,Rough,3.09,13.0,Fairway,2.25,,0.0,-0.16,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,2,4,389,3,Around-the-Green,13.0,Fairway,2.25,2.0,Green,1.34,,0.0,-0.09,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,2,4,389,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,3,5,552,1,Tee,552.0,Tee,4.71,303.0,Fescue,3.91,,0.0,-0.2,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,3,5,552,2,Approach,303.0,Fescue,3.91,154.0,Fairway,2.96,,0.0,-0.05,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,3,5,552,3,Approach,154.0,Fairway,2.96,13.0,Green,2.05,,0.0,-0.09,1.0,0,0,1.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,3,5,552,4,Putt,13.0,Green,2.05,1.0,Green,1.04,,0.0,0.01,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,3,5,552,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,4,3,203,1,Approach,203.0,Tee,3.13,12.0,Fairway,2.23,,0.0,-0.1,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,4,3,203,2,Around-the-Green,12.0,Fairway,2.23,0.0,Hole,0.0,,0.0,1.23,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,5,5,542,1,Tee,542.0,Tee,4.66,195.0,Rough,3.39,,0.0,0.27,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,5,5,542,2,Approach,195.0,Rough,3.39,16.0,Green,2.13,,0.0,0.26,1.0,0,0,1.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,5,5,542,3,Putt,16.0,Green,2.13,1.0,Green,1.04,,0.0,0.09,1.0,1,0,1.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,5,5,542,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,6,3,181,1,Approach,181.0,Tee,3.06,29.0,Sand,2.64,,0.0,-0.58,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,6,3,181,2,Around-the-Green,29.0,Sand,2.64,7.0,Green,1.88,,0.0,-0.24,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,6,3,181,3,Putt,7.0,Green,1.88,0.0,Hole,0.0,,0.0,0.88,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,7,4,467,1,Tee,467.0,Tee,4.21,150.0,Rough,3.19,,0.0,0.02,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,7,4,467,2,Approach,150.0,Rough,3.19,15.0,Fairway,2.3,,0.0,-0.11,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,7,4,467,3,Around-the-Green,15.0,Fairway,2.3,0.0,Hole,0.0,,0.0,1.3,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,8,4,397,1,Tee,397.0,Tee,3.99,100.0,Rough,3.02,,0.0,-0.03,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,8,4,397,2,Approach,100.0,Rough,3.02,7.0,Green,1.88,,0.0,0.14,1.0,0,0,1.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,8,4,397,3,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,8,4,397,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,9,4,417,1,Tee,417.0,Tee,4.01,139.0,Rough,3.14,,0.0,-0.13,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,9,4,417,2,Approach,139.0,Rough,3.14,20.0,Rough,2.59,,0.0,-0.45,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,9,4,417,3,Around-the-Green,20.0,Rough,2.59,7.0,Green,1.88,,0.0,-0.29,1.0,0,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,9,4,417,4,Putt,7.0,Green,1.88,2.0,Green,1.34,,0.0,-0.46,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,9,4,417,5,Putt,2.0,Green,1.34,1.0,Green,1.04,,0.0,-0.7,1.0,1,0,0.0
+Evan Callaghan,1000,2021-09-07,Otter Creek,9,4,417,6,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,1,4,374,1,Tee,374.0,Tee,3.95,94.0,Fairway,2.78,,0.0,0.17,1.0,0,1,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,1,4,374,2,Approach,94.0,Fairway,2.78,23.0,Fescue,2.63,,0.0,-0.85,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,1,4,374,3,Around-the-Green,23.0,Fescue,2.63,11.0,Green,2.0,,0.0,-0.37,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,1,4,374,4,Putt,11.0,Green,2.0,1.0,Green,1.04,,0.0,-0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,1,4,374,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,2,4,389,1,Tee,389.0,Tee,3.97,104.0,Rough,3.03,,0.0,-0.06,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,2,4,389,2,Approach,104.0,Rough,3.03,6.0,Green,1.84,,0.0,0.19,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,2,4,389,3,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,2,4,389,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,3,5,552,1,Tee,552.0,Tee,4.71,270.0,Fairway,3.64,,0.0,0.07,1.0,0,1,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,3,5,552,2,Approach,270.0,Fairway,3.64,38.0,Fairway,2.59,,0.0,0.05,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,3,5,552,3,Around-the-Green,38.0,Fairway,2.59,7.0,Green,1.88,,0.0,-0.29,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,3,5,552,4,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,3,5,552,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,4,3,203,1,Approach,203.0,Tee,3.13,22.0,Green,2.25,,0.0,-0.12,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,4,3,203,2,Putt,22.0,Green,2.25,3.0,Green,1.56,,0.0,-0.31,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,4,3,203,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,4,3,203,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,5,5,542,1,Tee,542.0,Tee,4.66,225.0,Rough,3.56,,0.0,0.1,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,5,5,542,2,Approach,225.0,Rough,3.56,14.0,Fairway,2.28,,0.0,0.28,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,5,5,542,3,Around-the-Green,14.0,Fairway,2.28,2.0,Green,1.34,,0.0,-0.06,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,5,5,542,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,6,3,181,1,Approach,181.0,Tee,3.06,24.0,Rough,2.64,,0.0,-0.58,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,6,3,181,2,Around-the-Green,24.0,Rough,2.64,3.0,Green,1.56,,0.0,0.08,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,6,3,181,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,6,3,181,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,7,4,467,1,Tee,467.0,Tee,4.21,147.0,Fairway,2.93,,0.0,0.28,1.0,0,1,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,7,4,467,2,Approach,147.0,Fairway,2.93,15.0,Green,2.1,,0.0,-0.17,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,7,4,467,3,Putt,15.0,Green,2.1,3.0,Green,1.56,,0.0,-0.46,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,7,4,467,4,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,7,4,467,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,8,4,397,1,Tee,397.0,Tee,3.99,95.0,Rough,3.01,,0.0,-0.02,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,8,4,397,2,Approach,95.0,Rough,3.01,10.0,Green,1.98,,0.0,0.03,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,8,4,397,3,Putt,10.0,Green,1.98,1.0,Green,1.04,,0.0,-0.06,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,8,4,397,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,9,4,417,1,Tee,417.0,Tee,4.01,109.0,Fescue,3.05,,0.0,-0.04,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,9,4,417,2,Approach,109.0,Fescue,3.05,33.0,Fescue,2.72,,0.0,-0.67,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,9,4,417,3,Around-the-Green,33.0,Fescue,2.72,8.0,Green,1.92,,0.0,-0.2,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,9,4,417,4,Putt,8.0,Green,1.92,1.0,Green,1.04,,0.0,-0.12,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,9,4,417,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,10,4,408,1,Tee,408.0,Tee,4.0,133.0,Fairway,2.89,,0.0,0.11,1.0,0,1,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,10,4,408,2,Approach,133.0,Fairway,2.89,9.0,Green,1.95,,0.0,-0.06,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,10,4,408,3,Putt,9.0,Green,1.95,1.0,Green,1.04,,0.0,-0.09,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,10,4,408,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,11,5,553,1,Tee,553.0,Tee,4.71,263.0,Fairway,3.6,,0.0,0.11,1.0,0,1,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,11,5,553,2,Approach,263.0,Fairway,3.6,40.0,Rough,2.78,,0.0,-0.18,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,11,5,553,3,Around-the-Green,40.0,Rough,2.78,1.0,Green,1.04,,0.0,0.74,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,11,5,553,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,12,4,431,1,Tee,431.0,Tee,4.05,140.0,Rough,3.15,,0.0,-0.1,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,12,4,431,2,Approach,140.0,Rough,3.15,15.0,Green,2.1,,0.0,0.05,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,12,4,431,3,Putt,15.0,Green,2.1,2.0,Green,1.34,,0.0,-0.24,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,12,4,431,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,13,3,154,1,Approach,154.0,Tee,2.98,8.0,Green,1.92,,0.0,0.06,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,13,3,154,2,Putt,8.0,Green,1.92,1.0,Green,1.04,,0.0,-0.12,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,13,3,154,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,14,4,431,1,Tee,431.0,Tee,4.05,185.0,Rough,3.34,,0.0,-0.29,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,14,4,431,2,Approach,185.0,Rough,3.34,25.0,Green,2.31,,0.0,0.03,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,14,4,431,3,Putt,25.0,Green,2.31,7.0,Green,1.88,,0.0,-0.57,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,14,4,431,4,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,14,4,431,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,15,3,196,1,Approach,196.0,Tee,3.11,30.0,Fairway,2.52,,0.0,-0.41,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,15,3,196,2,Around-the-Green,30.0,Fairway,2.52,2.0,Green,1.34,,0.0,0.18,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,15,3,196,3,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,16,4,391,1,Tee,391.0,Tee,3.98,105.0,Rough,3.03,,0.0,-0.05,1.0,0,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,16,4,391,2,Approach,105.0,Rough,3.03,16.0,Green,2.13,,0.0,-0.1,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,16,4,391,3,Putt,16.0,Green,2.13,3.0,Green,1.56,,0.0,-0.43,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,16,4,391,4,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,16,4,391,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,17,4,409,1,Tee,409.0,Tee,4.0,128.0,Fairway,2.88,,0.0,0.12,1.0,0,1,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,17,4,409,2,Approach,128.0,Fairway,2.88,7.0,Green,1.88,,0.0,0.0,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,17,4,409,3,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,17,4,409,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,18,4,400,1,Tee,400.0,Tee,3.99,115.0,Fairway,2.84,,0.0,0.15,1.0,0,1,0.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,18,4,400,2,Approach,115.0,Fairway,2.84,21.0,Green,2.23,,0.0,-0.39,1.0,0,0,1.0
+Mike Evertsen,1003,2021-09-12,Otter Creek,18,4,400,3,Putt,21.0,Green,2.23,0.0,Hole,0.0,,0.0,1.23,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,1,4,374,1,Tee,374.0,Tee,3.95,87.0,Rough,2.98,,0.0,-0.03,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,1,4,374,2,Approach,87.0,Rough,2.98,4.0,Green,1.69,,0.0,0.29,1.0,0,0,1.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,1,4,374,3,Putt,4.0,Green,1.69,0.0,Hole,0.0,,0.0,0.69,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,2,4,389,1,Tee,389.0,Tee,3.97,87.0,Fairway,2.76,,0.0,0.21,1.0,0,1,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,2,4,389,2,Approach,87.0,Fairway,2.76,16.0,Green,2.13,,0.0,-0.37,1.0,0,0,1.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,2,4,389,3,Putt,16.0,Green,2.13,1.0,Green,1.04,,0.0,0.09,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,2,4,389,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,3,5,552,1,Tee,552.0,Tee,4.71,269.0,Rough,3.78,,0.0,-0.07,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,3,5,552,2,Approach,269.0,Rough,3.78,113.0,Fairway,2.83,,0.0,-0.05,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,3,5,552,3,Approach,113.0,Fairway,2.83,11.0,Green,2.0,,0.0,-0.17,1.0,0,0,1.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,3,5,552,4,Putt,11.0,Green,2.0,4.0,Green,1.69,,0.0,-0.69,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,3,5,552,5,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,3,5,552,6,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,4,3,203,1,Approach,203.0,Tee,3.13,35.0,Rough,2.74,,0.0,-0.61,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,4,3,203,2,Around-the-Green,35.0,Rough,2.74,7.0,Green,1.88,,0.0,-0.14,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,4,3,203,3,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,4,3,203,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,5,5,542,1,Tee,542.0,Tee,4.66,237.0,Fairway,3.43,,0.0,0.23,1.0,0,1,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,5,5,542,2,Approach,237.0,Fairway,3.43,33.0,Rough,2.72,,0.0,-0.29,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,5,5,542,3,Around-the-Green,33.0,Rough,2.72,6.0,Green,1.84,,0.0,-0.12,1.0,0,0,1.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,5,5,542,4,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,5,5,542,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,6,3,181,1,Approach,181.0,Tee,3.06,20.0,Rough,2.59,,0.0,-0.53,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,6,3,181,2,Around-the-Green,20.0,Rough,2.59,10.0,Green,1.98,,0.0,-0.39,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,6,3,181,3,Putt,10.0,Green,1.98,1.0,Green,1.04,,0.0,-0.06,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,6,3,181,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,7,4,467,1,Tee,467.0,Tee,4.21,168.0,Fairway,3.02,,0.0,0.19,1.0,0,1,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,7,4,467,2,Approach,168.0,Fairway,3.02,5.0,Green,1.78,,0.0,0.24,1.0,0,0,1.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,7,4,467,3,Putt,5.0,Green,1.78,1.0,Green,1.04,,0.0,-0.26,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,7,4,467,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,8,4,397,1,Tee,397.0,Tee,3.99,78.0,Fairway,2.74,,0.0,0.25,1.0,0,1,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,8,4,397,2,Approach,78.0,Fairway,2.74,20.0,Rough,2.59,,0.0,-0.85,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,8,4,397,3,Around-the-Green,20.0,Rough,2.59,1.0,Green,1.04,,0.0,0.55,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,8,4,397,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,9,4,417,1,Tee,417.0,Tee,4.01,92.0,Fescue,3.0,,0.0,0.01,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,9,4,417,2,Approach,92.0,Fescue,3.0,67.0,Fescue,2.92,,0.0,-0.92,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,9,4,417,3,Approach,67.0,Fescue,2.92,10.0,Green,1.98,,0.0,-0.06,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,9,4,417,4,Putt,10.0,Green,1.98,1.0,Green,1.04,,0.0,-0.06,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,9,4,417,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,10,4,408,1,Tee,408.0,Tee,4.0,137.0,Fairway,2.9,,0.0,0.1,1.0,0,1,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,10,4,408,2,Approach,137.0,Fairway,2.9,15.0,Green,2.1,,0.0,-0.2,1.0,0,0,1.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,10,4,408,3,Putt,15.0,Green,2.1,3.0,Green,1.56,,0.0,-0.46,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,10,4,408,4,Putt,3.0,Green,1.56,0.0,Hole,0.0,,0.0,0.56,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,11,5,553,1,Tee,553.0,Tee,4.71,240.0,Rough,3.64,,0.0,0.07,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,11,5,553,2,Approach,240.0,Rough,3.64,29.0,Sand,2.64,,0.0,0.0,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,11,5,553,3,Around-the-Green,29.0,Sand,2.64,8.0,Fairway,2.13,,0.0,-0.49,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,11,5,553,4,Around-the-Green,8.0,Fairway,2.13,1.0,Green,1.04,,0.0,0.09,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,11,5,553,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,12,4,431,1,Tee,431.0,Tee,4.05,153.0,Fairway,2.95,,0.0,0.1,1.0,0,1,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,12,4,431,2,Approach,153.0,Fairway,2.95,47.0,Rough,2.85,,0.0,-0.9,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,12,4,431,3,Approach,47.0,Rough,2.85,2.0,Green,1.34,,0.0,0.51,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,12,4,431,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,13,3,154,1,Approach,154.0,Tee,2.98,16.0,Rough,2.5,,0.0,-0.52,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,13,3,154,2,Around-the-Green,16.0,Rough,2.5,1.0,Green,1.04,,0.0,0.46,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,13,3,154,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,14,4,431,1,Tee,431.0,Tee,4.05,195.0,Fairway,3.16,,0.0,-0.11,1.0,0,1,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,14,4,431,2,Approach,195.0,Fairway,3.16,46.0,Fescue,2.84,,0.0,-0.68,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,14,4,431,3,Approach,46.0,Fescue,2.84,14.0,Gree,0.0,,0.0,1.84,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,14,4,431,4,Around-the-Green,14.0,Gree,0.0,1.0,Green,1.04,,0.0,-2.04,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,14,4,431,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,15,3,196,1,Approach,196.0,Tee,3.11,28.0,Fairway,2.5,,0.0,-0.39,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,15,3,196,2,Around-the-Green,28.0,Fairway,2.5,1.0,Green,1.04,,0.0,0.46,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,15,3,196,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,16,4,391,1,Tee,391.0,Tee,3.98,173.0,Fescue,3.28,OB,2.0,-2.3,3.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,16,4,391,4,Approach,173.0,Fescue,3.28,35.0,Rough,2.74,,0.0,-0.46,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,16,4,391,5,Around-the-Green,35.0,Rough,2.74,2.0,Green,1.34,,0.0,0.4,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,16,4,391,6,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,17,4,409,1,Tee,409.0,Tee,4.0,156.0,Rough,3.21,OB,2.0,-2.21,3.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,17,4,409,4,Approach,156.0,Rough,3.21,16.0,Green,2.13,,0.0,0.08,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,17,4,409,5,Putt,16.0,Green,2.13,1.0,Green,1.04,,0.0,0.09,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,17,4,409,6,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,18,4,400,1,Tee,400.0,Tee,3.99,144.0,Rough,3.17,,0.0,-0.18,1.0,0,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,18,4,400,2,Approach,144.0,Rough,3.17,6.0,Green,1.84,,0.0,0.33,1.0,0,0,1.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,18,4,400,3,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Evan Callaghan,1004,2021-09-12,Otter Creek,18,4,400,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,1,4,406,1,Tee,406.0,Tee,4.0,99.0,Fairway,2.8,,0.0,0.2,1.0,0,1,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,1,4,406,2,Approach,99.0,Fairway,2.8,16.0,Green,2.13,,0.0,-0.33,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,1,4,406,3,Putt,16.0,Green,2.13,3.0,Green,1.56,,0.0,-0.43,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,1,4,406,4,Putt,3.0,Green,1.56,0.0,Hole,0.0,,0.0,0.56,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,2,4,343,1,Tee,343.0,Tee,3.87,44.0,Rough,2.82,,0.0,0.05,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,2,4,343,2,Around-the-Green,44.0,Rough,2.82,2.0,Green,1.34,,0.0,0.48,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,2,4,343,3,Putt,2.0,Green,1.34,1.0,Green,1.04,,0.0,-0.7,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,2,4,343,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,3,4,347,1,Tee,347.0,Tee,3.88,260.0,Rough,3.74,,0.0,-0.86,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,3,4,347,2,Approach,260.0,Rough,3.74,52.0,Fairway,2.67,,0.0,0.07,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,3,4,347,3,Approach,52.0,Fairway,2.67,13.0,Fairway,2.25,,0.0,-0.58,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,3,4,347,4,Around-the-Green,13.0,Fairway,2.25,1.0,Green,1.04,,0.0,0.21,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,3,4,347,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,4,5,464,1,Tee,464.0,Tee,4.19,151.0,Rough,3.19,,0.0,0.0,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,4,5,464,2,Approach,151.0,Rough,3.19,8.0,Green,1.92,,0.0,0.27,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,4,5,464,3,Putt,8.0,Green,1.92,1.0,Green,1.04,,0.0,-0.12,1.0,1,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,4,5,464,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,5,4,337,1,Tee,337.0,Tee,3.85,131.0,Rough,3.12,,0.0,-0.27,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,5,4,337,2,Approach,131.0,Rough,3.12,110.0,Rough,3.05,,0.0,-0.93,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,5,4,337,3,Approach,110.0,Rough,3.05,10.0,Fairway,2.18,,0.0,-0.13,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,5,4,337,4,Around-the-Green,10.0,Fairway,2.18,3.0,Green,1.56,,0.0,-0.38,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,5,4,337,5,Putt,3.0,Green,1.56,0.0,Hole,0.0,,0.0,0.56,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,6,3,148,1,Approach,148.0,Tee,2.97,15.0,Green,2.1,,0.0,-0.13,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,6,3,148,2,Putt,15.0,Green,2.1,1.0,Green,1.04,,0.0,0.06,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,6,3,148,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,7,4,328,1,Tee,328.0,Tee,3.82,25.0,Fairway,2.47,,0.0,0.35,1.0,0,1,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,7,4,328,2,Around-the-Green,25.0,Fairway,2.47,2.0,Green,1.34,,0.0,0.13,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,7,4,328,3,Putt,2.0,Green,1.34,1.0,Green,1.04,,0.0,-0.7,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,7,4,328,4,Putt,1.0,Green,1.04,0.0,Green,2.4,,0.0,-2.36,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,8,4,306,1,Tee,306.0,Tee,3.73,35.0,Rough,2.74,,0.0,-0.01,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,8,4,306,2,Around-the-Green,35.0,Rough,2.74,2.0,Green,1.34,,0.0,0.4,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,8,4,306,3,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,9,3,159,1,Approach,159.0,Tee,2.99,17.0,Green,2.15,,0.0,-0.16,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,9,3,159,2,Putt,17.0,Green,2.15,2.0,Green,1.34,,0.0,-0.19,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,9,3,159,3,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,10,4,428,1,Tee,428.0,Tee,4.04,158.0,Rough,3.22,,0.0,-0.18,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,10,4,428,2,Approach,158.0,Rough,3.22,35.0,Fairway,2.56,,0.0,-0.34,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,10,4,428,3,Around-the-Green,35.0,Fairway,2.56,5.0,Fairway,2.05,,0.0,-0.49,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,10,4,428,4,Around-the-Green,5.0,Fairway,2.05,1.0,Green,1.04,,0.0,0.01,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,10,4,428,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,11,4,349,1,Tee,349.0,Tee,3.89,47.0,Fairway,2.64,,0.0,0.25,1.0,0,1,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,11,4,349,2,Approach,47.0,Fairway,2.64,6.0,Fairway,2.08,,0.0,-0.44,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,11,4,349,3,Around-the-Green,6.0,Fairway,2.08,2.0,Green,1.34,,0.0,-0.26,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,11,4,349,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,12,4,365,1,Tee,365.0,Tee,3.93,108.0,Fairway,2.82,,0.0,0.11,1.0,0,1,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,12,4,365,2,Approach,108.0,Fairway,2.82,4.0,Green,1.69,,0.0,0.13,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,12,4,365,3,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,12,4,365,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,13,5,470,1,Tee,470.0,Tee,4.22,135.0,Fairway,2.89,,0.0,0.33,1.0,0,1,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,13,5,470,2,Approach,135.0,Fairway,2.89,7.0,Green,1.88,,0.0,0.01,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,13,5,470,3,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,13,5,470,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,14,4,354,1,Tee,354.0,Tee,3.9,90.0,Fairway,2.77,,0.0,0.13,1.0,0,1,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,14,4,354,2,Approach,90.0,Fairway,2.77,20.0,Rough,2.59,,0.0,-0.82,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,14,4,354,3,Around-the-Green,20.0,Rough,2.59,5.0,Green,1.78,,0.0,-0.19,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,14,4,354,4,Putt,5.0,Green,1.78,1.0,Green,1.04,,0.0,-0.26,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,14,4,354,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,15,3,177,1,Approach,177.0,Tee,3.04,11.0,Green,2.0,,0.0,0.04,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,15,3,177,2,Putt,11.0,Green,2.0,1.0,Green,1.04,,0.0,-0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,15,3,177,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,16,4,337,1,Tee,337.0,Tee,3.85,45.0,Rough,2.83,,0.0,0.02,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,16,4,337,2,Around-the-Green,45.0,Rough,2.83,9.0,Rough,2.31,,0.0,-0.48,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,16,4,337,3,Around-the-Green,9.0,Rough,2.31,5.0,Green,1.78,,0.0,-0.47,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,16,4,337,4,Putt,5.0,Green,1.78,1.0,Green,1.04,,0.0,-0.26,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,16,4,337,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,17,4,333,1,Tee,333.0,Tee,3.84,41.0,Rough,2.79,,0.0,0.05,1.0,0,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,17,4,333,2,Around-the-Green,41.0,Rough,2.79,6.0,Green,1.84,,0.0,-0.05,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,17,4,333,3,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,17,4,333,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,18,3,185,1,Approach,185.0,Tee,3.07,10.0,Green,1.98,,0.0,0.09,1.0,0,0,1.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,18,3,185,2,Putt,10.0,Green,1.98,1.0,Green,1.04,,0.0,-0.06,1.0,1,0,0.0
+Tom Auchterlonie,1002,2021-09-12,Ankeny Golf,18,3,185,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,1,4,372,1,Tee,372.0,Tee,3.95,64.0,Fairway,2.71,,0.0,0.24,1.0,0,1,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,1,4,372,2,Approach,64.0,Fairway,2.71,2.0,Green,1.34,,0.0,0.37,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,1,4,372,3,Putt,2.0,Green,1.34,1.0,Green,1.04,,0.0,-0.7,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,1,4,372,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,2,3,172,1,Approach,172.0,Tee,3.02,6.0,Green,1.84,,0.0,0.18,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,2,3,172,2,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,2,3,172,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,3,5,510,1,Tee,510.0,Tee,4.48,196.0,Rough,3.4,,0.0,0.08,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,3,5,510,2,Approach,196.0,Rough,3.4,3.0,Green,1.56,,0.0,0.84,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,3,5,510,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,3,5,510,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,4,4,420,1,Tee,420.0,Tee,4.02,122.0,Rough,3.09,,0.0,-0.07,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,4,4,420,2,Approach,122.0,Rough,3.09,5.0,Green,1.78,,0.0,0.31,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,4,4,420,3,Putt,5.0,Green,1.78,1.0,Green,1.04,,0.0,-0.26,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,4,4,420,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,5,4,339,1,Tee,339.0,Tee,3.86,166.0,Rough,3.25,PA,1.0,-1.39,2.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,5,4,339,3,Approach,166.0,Rough,3.25,5.0,Rough,2.21,,0.0,0.04,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,5,4,339,4,Around-the-Green,5.0,Rough,2.21,1.0,Green,1.04,,0.0,0.17,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,5,4,339,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,6,3,194,1,Approach,194.0,Tee,3.1,12.0,Rough,2.4,,0.0,-0.3,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,6,3,194,2,Around-the-Green,12.0,Rough,2.4,5.0,Green,1.78,,0.0,-0.38,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,6,3,194,3,Putt,5.0,Green,1.78,0.0,Hole,0.0,,0.0,0.78,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,7,4,370,1,Tee,370.0,Tee,3.94,129.0,Fairway,2.88,,0.0,0.06,1.0,0,1,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,7,4,370,2,Approach,129.0,Fairway,2.88,3.0,Green,1.56,,0.0,0.32,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,7,4,370,3,Putt,3.0,Green,1.56,0.0,Hole,0.0,,0.0,0.56,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,8,4,357,1,Tee,357.0,Tee,3.91,108.0,Fairway,2.82,,0.0,0.09,1.0,0,1,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,8,4,357,2,Approach,108.0,Fairway,2.82,6.0,Green,1.84,,0.0,-0.02,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,8,4,357,3,Putt,6.0,Green,1.84,2.0,Green,1.34,,0.0,-0.5,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,8,4,357,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,9,5,600,1,Tee,600.0,Tee,4.82,361.0,Rough,4.12,,0.0,-0.3,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,9,5,600,2,Approach,361.0,Rough,4.12,244.0,Rough,3.66,,0.0,-0.54,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,9,5,600,3,Approach,244.0,Rough,3.66,114.0,Fairway,2.84,,0.0,-0.18,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,9,5,600,4,Approach,114.0,Fairway,2.84,1.0,Green,1.04,,0.0,0.8,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,9,5,600,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,10,4,272,1,Tee,272.0,Tee,3.58,25.0,Sand,2.59,,0.0,-0.01,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,10,4,272,2,Around-the-Green,25.0,Sand,2.59,1.0,Green,1.04,,0.0,0.55,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,10,4,272,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,11,4,390,1,Tee,390.0,Tee,3.98,140.0,Fairway,2.91,,0.0,0.07,1.0,0,1,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,11,4,390,2,Approach,140.0,Fairway,2.91,4.0,Green,1.69,,0.0,0.22,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,11,4,390,3,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,11,4,390,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,12,4,350,1,Tee,350.0,Tee,3.89,63.0,Rough,2.92,,0.0,-0.03,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,12,4,350,2,Approach,63.0,Rough,2.92,3.0,Green,1.56,,0.0,0.36,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,12,4,350,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,12,4,350,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,13,3,196,1,Approach,196.0,Tee,3.11,21.0,Rough,2.61,,0.0,-0.5,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,13,3,196,2,Around-the-Green,21.0,Rough,2.61,1.0,Green,1.04,,0.0,0.57,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,13,3,196,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,14,5,525,1,Tee,525.0,Tee,4.57,267.0,Fairway,3.62,,0.0,-0.05,1.0,0,1,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,14,5,525,2,Approach,267.0,Fairway,3.62,24.0,Fairway,2.46,,0.0,0.16,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,14,5,525,3,Around-the-Green,24.0,Fairway,2.46,3.0,Green,1.56,,0.0,-0.1,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,14,5,525,4,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,14,5,525,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,15,5,559,1,Tee,559.0,Tee,4.74,209.0,Rough,3.47,,0.0,0.27,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,15,5,559,2,Approach,209.0,Rough,3.47,10.0,Green,1.98,,0.0,0.49,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,15,5,559,3,Putt,10.0,Green,1.98,1.0,Green,1.04,,0.0,-0.06,1.0,1,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,15,5,559,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,16,4,412,1,Tee,412.0,Tee,4.01,107.0,Fairway,2.82,,0.0,0.19,1.0,0,1,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,16,4,412,2,Approach,107.0,Fairway,2.82,7.0,Green,1.88,,0.0,-0.06,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,16,4,412,3,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,16,4,412,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,17,3,228,1,Approach,228.0,Tee,3.19,20.0,Rough,2.59,,0.0,-0.4,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,17,3,228,2,Around-the-Green,20.0,Rough,2.59,6.0,Green,1.84,,0.0,-0.25,1.0,0,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,17,3,228,3,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,17,3,228,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,18,4,411,1,Tee,411.0,Tee,4.0,127.0,Fairway,2.87,,0.0,0.13,1.0,0,1,0.0
+Sam Lockhart,1005,2021-09-20,Lemars,18,4,411,2,Approach,127.0,Fairway,2.87,5.0,Green,1.78,,0.0,0.09,1.0,0,0,1.0
+Sam Lockhart,1005,2021-09-20,Lemars,18,4,411,3,Putt,5.0,Green,1.78,0.0,Hole,0.0,,0.0,0.78,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,1,4,372,1,Tee,372.0,Tee,3.95,148.0,Rough,3.18,,0.0,-0.23,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,1,4,372,2,Approach,148.0,Rough,3.18,20.0,Rough,2.59,,0.0,-0.41,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,1,4,372,3,Around-the-Green,20.0,Rough,2.59,3.0,Green,1.56,,0.0,0.03,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,1,4,372,4,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,1,4,372,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,2,3,172,1,Approach,172.0,Tee,3.02,14.0,Green,2.08,,0.0,-0.06,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,2,3,172,2,Putt,14.0,Green,2.08,1.0,Green,1.04,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,2,3,172,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,3,5,510,1,Tee,510.0,Tee,4.48,198.0,Fescue,3.41,,0.0,0.07,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,3,5,510,2,Approach,198.0,Fescue,3.41,155.0,Rough,3.21,,0.0,-0.8,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,3,5,510,3,Approach,155.0,Rough,3.21,12.0,Rough,2.4,,0.0,-0.19,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,3,5,510,4,Around-the-Green,12.0,Rough,2.4,1.0,Green,1.04,,0.0,0.36,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,3,5,510,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,4,4,420,1,Tee,420.0,Tee,4.02,158.0,Fairway,2.97,,0.0,0.05,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,4,4,420,2,Approach,158.0,Fairway,2.97,20.0,Green,2.21,,0.0,-0.24,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,4,4,420,3,Putt,20.0,Green,2.21,1.0,Green,1.04,,0.0,0.17,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,4,4,420,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,5,4,339,1,Tee,339.0,Tee,3.86,77.0,Fairway,2.74,,0.0,0.12,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,5,4,339,2,Approach,77.0,Fairway,2.74,9.0,Fairway,2.15,,0.0,-0.41,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,5,4,339,3,Around-the-Green,9.0,Fairway,2.15,1.0,Green,1.04,,0.0,0.11,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,5,4,339,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,6,3,194,1,Approach,194.0,Tee,3.1,13.0,Sand,2.46,,0.0,-0.36,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,6,3,194,2,Around-the-Green,13.0,Sand,2.46,11.0,Green,2.0,,0.0,-0.54,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,6,3,194,3,Putt,11.0,Green,2.0,1.0,Green,1.04,,0.0,-0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,6,3,194,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,7,4,370,1,Tee,370.0,Tee,3.94,83.0,Fairway,2.76,,0.0,0.18,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,7,4,370,2,Approach,83.0,Fairway,2.76,4.0,Green,1.69,,0.0,0.07,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,7,4,370,3,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,7,4,370,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,8,4,357,1,Tee,357.0,Tee,3.91,74.0,Fairway,2.73,,0.0,0.18,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,8,4,357,2,Approach,74.0,Fairway,2.73,3.0,Green,1.56,,0.0,0.17,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,8,4,357,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,8,4,357,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,9,5,600,1,Tee,600.0,Tee,4.82,117.0,Fairway,2.84,,0.0,0.98,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,9,5,600,2,Approach,117.0,Fairway,2.84,6.0,Green,1.84,,0.0,-0.0,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,9,5,600,3,Putt,6.0,Green,1.84,0.0,Hole,0.0,,0.0,0.84,1.0,1,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,10,4,272,1,Tee,272.0,Tee,3.58,24.0,Rough,2.64,,0.0,-0.06,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,10,4,272,2,Around-the-Green,24.0,Rough,2.64,3.0,Green,1.56,,0.0,0.08,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,10,4,272,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,10,4,272,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,11,4,390,1,Tee,390.0,Tee,3.98,184.0,Rough,3.33,,0.0,-0.35,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,11,4,390,2,Approach,184.0,Rough,3.33,9.0,Fairway,2.15,,0.0,0.18,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,11,4,390,3,Around-the-Green,9.0,Fairway,2.15,1.0,Green,1.04,,0.0,0.11,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,11,4,390,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,12,4,350,1,Tee,350.0,Tee,3.89,64.0,Rough,2.92,,0.0,-0.03,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,12,4,350,2,Approach,64.0,Rough,2.92,7.0,Fairway,2.1,,0.0,-0.18,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,12,4,350,3,Around-the-Green,7.0,Fairway,2.1,1.0,Green,1.04,,0.0,0.06,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,12,4,350,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,13,3,196,1,Approach,196.0,Tee,3.11,7.0,Green,1.88,,0.0,0.23,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,13,3,196,2,Putt,7.0,Green,1.88,1.0,Green,1.04,,0.0,-0.16,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,13,3,196,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,14,5,525,1,Tee,525.0,Tee,4.57,258.0,Fairway,3.57,,0.0,0.0,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,14,5,525,2,Approach,258.0,Fairway,3.57,31.0,Rough,2.71,,0.0,-0.14,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,14,5,525,3,Around-the-Green,31.0,Rough,2.71,5.0,Green,1.78,,0.0,-0.07,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,14,5,525,4,Putt,5.0,Green,1.78,0.0,Hole,0.0,,0.0,0.78,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,15,5,559,1,Tee,559.0,Tee,4.74,236.0,Rough,3.62,,0.0,0.12,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,15,5,559,2,Approach,236.0,Rough,3.62,48.0,Rough,2.85,,0.0,-0.23,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,15,5,559,3,Approach,48.0,Rough,2.85,9.0,Green,1.95,,0.0,-0.1,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,15,5,559,4,Putt,9.0,Green,1.95,1.0,Green,1.04,,0.0,-0.09,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,15,5,559,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,16,4,412,1,Tee,412.0,Tee,4.01,85.0,Fairway,2.76,,0.0,0.25,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,16,4,412,2,Approach,85.0,Fairway,2.76,10.0,Sand,2.43,,0.0,-0.67,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,16,4,412,3,Around-the-Green,10.0,Sand,2.43,2.0,Green,1.34,,0.0,0.09,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,16,4,412,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,17,3,228,1,Approach,228.0,Tee,3.19,14.0,Rough,2.45,,0.0,-0.26,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,17,3,228,2,Around-the-Green,14.0,Rough,2.45,1.0,Green,1.04,,0.0,0.41,1.0,0,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,17,3,228,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,18,4,411,1,Tee,411.0,Tee,4.0,97.0,Fairway,2.79,,0.0,0.21,1.0,0,1,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,18,4,411,2,Approach,97.0,Fairway,2.79,3.0,Green,1.56,,0.0,0.23,1.0,0,0,1.0
+Sam Lockhart,1007,2021-09-21,Lemars,18,4,411,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Sam Lockhart,1007,2021-09-21,Lemars,18,4,411,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,1,4,372,1,Tee,372.0,Tee,3.95,143.0,Fairway,2.92,,0.0,0.03,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,1,4,372,2,Approach,143.0,Fairway,2.92,6.0,Green,1.84,,0.0,0.08,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,1,4,372,3,Putt,6.0,Green,1.84,1.0,Green,1.04,,0.0,-0.2,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,1,4,372,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,2,3,172,1,Approach,172.0,Tee,3.02,7.0,Sand,2.35,,0.0,-0.33,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,2,3,172,2,Around-the-Green,7.0,Sand,2.35,1.0,Green,1.04,,0.0,0.31,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,2,3,172,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,3,5,510,1,Tee,510.0,Tee,4.48,203.0,Fairway,3.21,,0.0,0.27,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,3,5,510,2,Approach,203.0,Fairway,3.21,31.0,Fairway,2.53,,0.0,-0.32,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,3,5,510,3,Around-the-Green,31.0,Fairway,2.53,2.0,Green,1.34,,0.0,0.19,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,3,5,510,4,Putt,2.0,Green,1.34,1.0,Green,1.04,,0.0,-0.7,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,3,5,510,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,4,4,420,1,Tee,420.0,Tee,4.02,115.0,Rough,3.06,,0.0,-0.04,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,4,4,420,2,Approach,115.0,Rough,3.06,4.0,Green,1.69,,0.0,0.37,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,4,4,420,3,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,4,4,420,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,5,4,339,1,Tee,339.0,Tee,3.86,149.0,Fairway,2.94,,0.0,-0.08,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,5,4,339,2,Approach,149.0,Fairway,2.94,28.0,Rough,2.68,,0.0,-0.74,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,5,4,339,3,Around-the-Green,28.0,Rough,2.68,4.0,Fairway,2.03,,0.0,-0.35,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,5,4,339,4,Around-the-Green,4.0,Fairway,2.03,1.0,Green,1.04,,0.0,-0.01,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,5,4,339,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,6,3,194,1,Approach,194.0,Tee,3.1,15.0,Fairway,2.3,,0.0,-0.2,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,6,3,194,2,Around-the-Green,15.0,Fairway,2.3,4.0,Green,1.69,,0.0,-0.39,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,6,3,194,3,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,6,3,194,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,7,4,370,1,Tee,370.0,Tee,3.94,71.0,Fairway,2.72,,0.0,0.22,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,7,4,370,2,Approach,71.0,Fairway,2.72,4.0,Green,1.69,,0.0,0.03,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,7,4,370,3,Putt,4.0,Green,1.69,1.0,Green,1.04,,0.0,-0.35,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,7,4,370,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,8,4,357,1,Tee,357.0,Tee,3.91,92.0,Fairway,2.78,,0.0,0.13,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,8,4,357,2,Approach,92.0,Fairway,2.78,3.0,Green,1.56,,0.0,0.22,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,8,4,357,3,Putt,3.0,Green,1.56,0.0,Hole,0.0,,0.0,0.56,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,9,4,420,1,Tee,420.0,Tee,4.02,150.0,Fairway,2.94,,0.0,0.08,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,9,4,420,2,Approach,150.0,Fairway,2.94,27.0,Green,2.34,,0.0,-0.4,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,9,4,420,3,Putt,27.0,Green,2.34,1.0,Green,1.04,,0.0,0.3,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,9,4,420,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,10,4,272,1,Tee,272.0,Tee,3.58,41.0,Fairway,2.61,,0.0,-0.03,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,10,4,272,2,Around-the-Green,41.0,Fairway,2.61,2.0,Green,1.34,,0.0,0.27,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,10,4,272,3,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,11,4,390,1,Tee,390.0,Tee,3.98,151.0,Fairway,2.95,,0.0,0.03,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,11,4,390,2,Approach,151.0,Fairway,2.95,18.0,Fairway,2.36,,0.0,-0.41,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,11,4,390,3,Around-the-Green,18.0,Fairway,2.36,2.0,Green,1.34,,0.0,0.02,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,11,4,390,4,Putt,2.0,Green,1.34,0.0,Hole,0.0,,0.0,0.34,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,12,4,350,1,Tee,350.0,Tee,3.89,48.0,Rough,2.85,,0.0,0.04,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,12,4,350,2,Approach,48.0,Rough,2.85,3.0,Green,1.56,,0.0,0.29,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,12,4,350,3,Putt,3.0,Green,1.56,1.0,Green,1.04,,0.0,-0.48,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,12,4,350,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,13,3,196,1,Approach,196.0,Tee,3.11,18.0,Green,2.17,,0.0,-0.06,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,13,3,196,2,Putt,18.0,Green,2.17,1.0,Green,1.04,,0.0,0.13,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,13,3,196,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,14,5,525,1,Tee,525.0,Tee,4.57,296.0,Rough,3.89,,0.0,-0.32,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,14,5,525,2,Approach,296.0,Rough,3.89,74.0,Fairway,2.73,,0.0,0.16,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,14,5,525,3,Approach,74.0,Fairway,2.73,6.0,Green,1.84,,0.0,-0.11,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,14,5,525,3,Putt,6.0,Green,1.84,0.0,Hole,0.0,,0.0,0.84,1.0,1,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,15,5,559,1,Tee,559.0,Tee,4.74,210.0,Rough,3.48,,0.0,0.26,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,15,5,559,2,Approach,210.0,Rough,3.48,11.0,Green,2.0,,0.0,0.48,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,15,5,559,3,Putt,11.0,Green,2.0,1.0,Green,1.04,,0.0,-0.04,1.0,1,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,15,5,559,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,16,4,412,1,Tee,412.0,Tee,4.01,84.0,Fairway,2.76,,0.0,0.25,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,16,4,412,2,Approach,84.0,Fairway,2.76,1.0,Green,1.04,,0.0,0.72,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,16,4,412,3,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,17,3,228,1,Approach,228.0,Tee,3.19,133.0,Rough,3.12,,0.0,-0.93,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,17,3,228,2,Approach,133.0,Rough,3.12,41.0,Rough,2.79,,0.0,-0.67,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,17,3,228,3,Around-the-Green,41.0,Rough,2.79,7.0,Fairway,2.1,,0.0,-0.31,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,17,3,228,4,Around-the-Green,7.0,Fairway,2.1,1.0,Green,1.04,,0.0,0.06,1.0,0,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,17,3,228,5,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,18,4,411,1,Tee,411.0,Tee,4.0,97.0,Fairway,2.79,,0.0,0.21,1.0,0,1,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,18,4,411,2,Approach,97.0,Fairway,2.79,8.0,Green,1.92,,0.0,-0.13,1.0,0,0,1.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,18,4,411,3,Putt,8.0,Green,1.92,1.0,Green,1.04,,0.0,-0.12,1.0,1,0,0.0
+Sam Lockhart,1006,2021-09-20,Lemars_Rd2,18,4,411,4,Putt,1.0,Green,1.04,0.0,Hole,0.0,,0.0,0.04,1.0,1,0,0.0
